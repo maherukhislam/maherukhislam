@@ -1,4 +1,3 @@
-````md
 <!-- =========================
      GitHub Profile README
      Md. Maherukh Islam
@@ -51,8 +50,8 @@ Currently based in **Bangladesh**.
 
 ## Leadership & Operations
 
-* Treasurer — Dhaka Commerce College Nature Study Club
-* Cadet Lance Corporal — BNCC
+* Treasurer - Dhaka Commerce College Nature Study Club
+* Cadet Lance Corporal - BNCC
 * Developer of DCCNSC organizational systems and treasury infrastructure
 * Operations volunteer for institutional and student-led events
 
@@ -61,10 +60,10 @@ Currently based in **Bangladesh**.
 ## Certifications & Recognition
 
 * UNICEF Web Accessibility Training
-* BDOC Physics Olympiad 2025 — Finalist
-* National Earth Olympiad 2025 — Divisional Topper
-* DCCPS CSE Fest IT Quiz — 2nd Place
-* ECO Spark Challenge 1.0 — 1st Place
+* BDOC Physics Olympiad 2025 - Finalist
+* National Earth Olympiad 2025 - Divisional Topper
+* DCCPS CSE Fest IT Quiz - 2nd Place
+* ECO Spark Challenge 1.0 - 1st Place
 
 ---
 
@@ -158,14 +157,14 @@ I started building organizational systems before entering university.
 Building systems with structure, accessibility, and long-term impact.
 ```
 
-</div>
-```
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="30" alt="sqlite" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="30" alt="tailwindcss" />
-</p>
+  
+   <img src="https://skillicons.dev/icons?i=tailwindcss" height="30" alt="tailwindcss" />
+
 
 ---
 
